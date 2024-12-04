@@ -2,7 +2,7 @@
 =============================================================
 
 El objetivo era resolver el reto 4, el cual consistia en
-realizar algoritmos que cumplieron con las necesidades 
+realizar algoritmos que cumplieran con las necesidades 
 planteadas en cada punto.
 A continuacion adjunto la imagen del repo del profe Felipe:
 
